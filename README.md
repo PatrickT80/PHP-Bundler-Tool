@@ -1,2 +1,2 @@
-# PHP_Bundler_Tool
-A new way to manage PHP packages, inspired by maven
+# PHP Bundler Tool (PBT)
+Is a new way to manage PHP package using phar format instead of bare source.
